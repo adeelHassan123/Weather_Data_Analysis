@@ -1,10 +1,10 @@
-# 🌦 Weather Data Analysis
+# Weather Data Analysis
 
 A complete end-to-end weather data analysis and prediction pipeline using **Python**, combining **data preprocessing**, **exploratory data analysis (EDA)**, **feature engineering**, and **model building** with **Random Forest** and **LSTM** to predict precipitation and understand weather patterns.
 
 ---
 
-## 📌 Features
+## Features
 
 - **Data Preprocessing & Cleaning**
   - Duplicate and missing value handling
@@ -41,7 +41,7 @@ A complete end-to-end weather data analysis and prediction pipeline using **Pyth
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Programming Language:** Python
 - **Data Handling:** Pandas, NumPy
@@ -51,7 +51,7 @@ A complete end-to-end weather data analysis and prediction pipeline using **Pyth
 - **Preprocessing:** RobustScaler, StandardScaler, LabelEncoder
 ---
 
-## 📊 Example Insights
+## Example Insights
 
 - **Seasonal Trends:** Precipitation peaks in specific seasons depending on location data.
 - **Feature Correlation:** Wind speed, humidity, and temperature significantly correlate with precipitation.
